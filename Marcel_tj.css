@@ -191,7 +191,7 @@ Stylesheet url: https://passthestyles.github.io/stylesheets/ptp/marcel/marcel.cs
   font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
-  src: local('FontAwesome'), local('Font-Awesome'), local('Font Awesome'), url(https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.woff) format('woff');
+  src: local('FontAwesome'), local('Font-Awesome'), local('Font Awesome'), url('fonts/fontawesome-webfont.woff') format('woff');
 }
 
 .fa,
